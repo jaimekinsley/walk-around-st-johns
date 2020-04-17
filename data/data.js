@@ -74,3 +74,9 @@ const coffee = {
     }]
 };
  
+const activities = [
+    dubs,
+    coffee
+];
+
+export default activities;
